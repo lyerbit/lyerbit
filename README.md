@@ -5,7 +5,7 @@
 
 
 
-<a<img align="middle" src="![lyerbit4](https://user-images.githubusercontent.com/100108676/155845356-af5d2f2c-cf47-44f4-af36-808793efbb2a.JPG)" height="50" width="210" alt="COMMING SOON" /></a>
+<a<img align="middle" src="https://user-images.githubusercontent.com/100108676/155845356-af5d2f2c-cf47-44f4-af36-808793efbb2a.JPG"></a>
 
 - 🔭 I’m currently working on [lyerbit](https://github.com/lyerbit/lyerbit.git)
 
