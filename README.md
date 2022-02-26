@@ -26,7 +26,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/COMMING SOON"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="COMMING SOON" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lyerbit&show_icons=true&locale=en&layout=compact" alt="lyerbit" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lyerbit&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="lyerbit" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lyerbit&show_icons=true&locale=en" alt="lyerbit" /></p>
 
@@ -35,11 +35,3 @@
 ---
 
 ### 📺 Latest YouTube Videos
-
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
