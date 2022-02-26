@@ -17,6 +17,7 @@
 <p align="left">
 <a href="https://instagram.com/lyerbit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lyerbit" height="30" width="40" /></a>
 <a href="https://t.me/lyerbit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="lyerbit" height="30" width="40" /></a>
+ <a href="https://github.com/lyerbit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="lyerbit" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/lyerbit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="lyerbit" height="30" width="40" /></a>
 <a href="https://twitter.com/lyerbit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lyerbit" height="30" width="40" /></a>
 </p>
@@ -26,6 +27,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lyerbit&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="lyerbit" /></p>
 
+ 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lyerbit&hide_border=false&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="lyerbit" /></p>
 
  
