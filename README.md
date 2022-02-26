@@ -31,6 +31,11 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lyerbit&hide_border=false&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="lyerbit" /></p>
 
  
+ 
+ | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+ 
+ 
 📺 Latest YouTube Videos
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/COMMING SOON"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="COMMING SOON" /></a></p><br><br>
