@@ -28,7 +28,7 @@
  | <a href="https://github.com/lyerbit/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lyerbit&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="lyerbit" /></a> | <a href="https://github.com/lyerbit/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyerbit&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lyerbit&hide_border=false&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="lyerbit" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lyerbit&hide_border=false&icon_color=FFE400&bg_color=09131B&text_color=FFE400&border_color=0c1a25" alt="lyerbit" /></p>
 📺 Latest YouTube Videos
  
 <h3 align="left">Support:</h3>
