@@ -17,13 +17,15 @@
 
 - 📫 How to reach me **lyersbit@gmail.com**
 
-- 📄 Know about my experiences [Comming soon](Comming soon)
+- 📄 Know about my experiences [Comming soon]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lyerbit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lyerbit" height="30" width="40" /></a>
 <a href="https://instagram.com/lyerbit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lyerbit" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/lyerbit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lyerbit" height="30" width="40" /></a>
+[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
