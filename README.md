@@ -1,10 +1,11 @@
 <h1 align="center">Hi👋,iT's Me Lyerbit</h1>
 <h3 align="center">•🃏BLIND SHOW EXPERT🃏•</h3>
 
-![lyerbit3](https://user-images.githubusercontent.com/100108676/155845352-a276bdc9-2187-4c85-969c-a9d88e878f63.JPG)
-![lyerbit4](https://user-images.githubusercontent.com/100108676/155845356-af5d2f2c-cf47-44f4-af36-808793efbb2a.JPG)
+<h3 align="left">COMMING SOON:</h3>
 
 
+
+<a<img align="middle" src="![lyerbit4](https://user-images.githubusercontent.com/100108676/155845356-af5d2f2c-cf47-44f4-af36-808793efbb2a.JPG)" height="50" width="210" alt="COMMING SOON" /></a>
 
 - 🔭 I’m currently working on [lyerbit](https://github.com/lyerbit/lyerbit.git)
 
