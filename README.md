@@ -4,7 +4,7 @@
 <h3 align="left">COMMING SOON:</h3>
 
 
-<img align="center" src="https://user-images.githubusercontent.com/100108676/155845356-af5d2f2c-cf47-44f4-af36-808793efbb2a.JPG"></a>
+<img align="center" src=""></a>
 
 
 - 🔭 I’m currently working on [lyerbit](https://github.com/lyerbit/lyerbit.git)
